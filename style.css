@@ -1,0 +1,13 @@
+div {
+  background-color:lightgrey;
+  width: 130px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  display:inline-block;
+}
+
+body {
+  width:auto;
+  background-color: lightblue;
+}
